@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Missouri</h3>
 
 <p align="center">
-    <a href="www.linkedin.com/in/dominic-prince-098919159">
+    <a href="https://www.linkedin.com/in/dominic-prince-098919159">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
