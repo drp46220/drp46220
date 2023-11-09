@@ -9,7 +9,7 @@ I'm a passionate developer looking to better society with my knowlege us technol
 ###
 <div align="center">
     <h2>Feel free to contact me  
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=drp46220@ucmo.edu&su=GitHub&body=Hello, I saw your github...">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dominicprc3@gmail.com&su=Gmail link on GitHub&body=Hello, I saw your github...">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
         </a>
         <a href="www.linkedin.com/in/dominic-prince-098919159" target="_blank">
