@@ -12,7 +12,7 @@ I'm a passionate developer looking to better society with my knowlege us technol
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dominicprc3@gmail.com&su=Gmail link on GitHub&body=Hello, I saw your github...">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
         </a>
-        <a href="https://www.linkedin.com/in/dominic-prince-098919159" target="_blank">
+        <a href="https://www.linkedin.com/in/dominic-prince-098919159">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
          </a>
     </h2>
