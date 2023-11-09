@@ -1,9 +1,17 @@
-<h2 align="center">Hello! I'm Dominic <br><br>I am a passionate developer</h2>
+<div align="center">
+<h2>
+    Hello! I'm Dominic
+</h2>
+
+I'm a passionate developer looking to better society with my knowlege us technology <br>In my free time I code and expolre nature
+</div>
 
 ###
 <div align="center">
     <h2>Feel free to contact me  
+        <a href="mailto%drp46220%gmail.com%">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+        </a>
         <a href="www.linkedin.com/in/dominic-prince-098919159" target="_blank">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
          </a>
