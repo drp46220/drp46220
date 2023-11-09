@@ -3,7 +3,7 @@
     Hello! I'm Dominic
 </h2>
 
-I'm a passionate developer looking to better society with my knowlege us technology <br>In my free time I code and expolre nature
+I'm a passionate developer looking to better society with my knowlege us technology <br>In my free time I code and explore nature
 </div>
 
 ###
